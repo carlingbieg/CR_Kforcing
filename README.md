@@ -1,7 +1,7 @@
 # CR_Kforcing
 periodic forcing of K in an R-M CR model across time scales
 
-code for Figures in "Stability of consumer-resource interactions in polyrhythmic environments" (submitted paper) by Carling Bieg, Gabriel Gellner and Kevin McCann.
+code for Figures in "Stability of consumer-resource interactions in periodic environments" (paper under revision) by Carling Bieg, Gabriel Gellner and Kevin McCann.
 
 We use an extension of the classic Rosenzweig-MacArthur consumer-resource (C-R) model where we force resource carrying capacity (i.e., productivity), K, to mimic fluctuations in productivity associated with environmental variability.
 We also use a range of growth rates to mimic varying life strategies (i.e., slow to fast pace of life) to test the generality of our results and suggest implications for future global change scenarios, as it is known that various anthropogenic stressors associated with global change (i.e., climate change, harvesting, land development, etc.) are simultaneously selecting for faster life strategies. The speed of life strategies (i.e., growth rates) also dictates the speed of underlying dynamics in C-R systems (i.e., the periodicity of limit cycles), which we will show has an interactive effect with the speed of environmental forcing.
